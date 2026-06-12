@@ -48,15 +48,5 @@
     "weight": 75,
     "bmi": 31.22,
     "verdict": "Obese"
-  },
-  "P006": {
-    "name": "PukPok",
-    "city": "Bangalore",
-    "age": 24,
-    "gender": "male",
-    "height": 1.8,
-    "weight": 62.0,
-    "bmi": 19.14,
-    "verdict": "Normal"
   }
 }
